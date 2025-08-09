@@ -1,0 +1,6 @@
+[submodule "CS-Homework"]
+	path = CS-Homework
+	url = https://github.com/ITStep-Homework/CS-Homework
+[submodule "CS-Homework-6"]
+	path = CS-Homework-6
+	url = https://github.com/ITStep-Homework/CS-Homework-6
