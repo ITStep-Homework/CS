@@ -13,3 +13,9 @@
 [submodule "CS-Homework-9"]
 	path = CS-Homework-9
 	url = https://github.com/ITStep-Homework/CS-Homework-9
+[submodule "CS-Exam"]
+	path = CS-Exam
+	url = https://github.com/ITStep-Homework/CS-Exam
+[submodule "exam"]
+	path = exam
+	url = https://github.com/ITStep-Homework/CS-Exam
